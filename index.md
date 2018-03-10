@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to kksanc Blog
 
 You can use the [editor on GitHub](https://github.com/kksanc/mutoh-printer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
